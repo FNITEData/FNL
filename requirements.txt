@@ -1,0 +1,9 @@
+requests
+tweepy
+pillow
+colorama
+datetime
+pyfiglet
+googletrans
+pypresence
+tk
